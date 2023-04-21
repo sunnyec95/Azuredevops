@@ -1,0 +1,9 @@
+{
+	"name": "mntadf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5e9b0999-eab1-490f-937e-0a1876adce13",
+		"tenantId": "36da45f1-dd2c-4d1f-af13-5abe46b99921"
+	}
+}
